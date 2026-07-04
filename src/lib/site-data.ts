@@ -262,8 +262,8 @@ export const CATEGORIES: Category[] = [
 export const HERO_VIDEOS: VideoItem[] = [
   mk("Krishi Seva Kendra", "EXPom_K8JgY", IMG.agriShop),
   mk("Fertilizer Brand Ad", "RwFffATK-8k", IMG.agri),
-  mk("Mobile Shop Festival Ad", "AiVDJBVldUU", IMG.mobile),
-  mk("Vehicle Showroom Promo", "6x8vQLZiA_o", IMG.auto),
+  mk("Promo 3", "EAfIIESo0-Y", IMG.mobile),
+  mk("Promo 4 ", "fejgI_vIIdk", IMG.auto),
 ];
 
 /* ------------- TESTIMONIALS ------------- */
