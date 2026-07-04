@@ -92,12 +92,6 @@ export const CATEGORIES: Category[] = [
     short: "Fertilizers, Pesticides, Seeds & Nano Inputs",
     long: "Premium AI commercials for fertilizer, pesticide, seed, drip-irrigation and nano-input brands across India.",
     videos: [
-      mk("Fertilizer Promo 01", "xOej1G9SLgc", IMG.agri),
-      mk("Fertilizer Promo 02", "DWhFGlhK-Eg", IMG.agri),
-      mk("Fertilizer Promo 03", "-5bH5dgJoD4", IMG.agri),
-      mk("Fertilizer Promo 04", "CyMOQTs8zzs", IMG.agri),
-      mk("Fertilizer Promo 05", "ZdGNebhv518", IMG.agri),
-      mk("Fertilizer Promo 06", "xwRh8DObPXA", IMG.agri),
       mk("Fertilizer Promo 07", "PsnazMziuz4", IMG.agri),
     ],
   },
