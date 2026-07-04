@@ -252,7 +252,7 @@ function Hero() {
           </div>
           <div className="mt-8 flex flex-wrap items-center gap-3">
             <WhatsAppCTA>{t("cta.orderWA")}</WhatsAppCTA>
-            <a href="#work" className="inline-flex items-center gap-2 rounded-full border-2 border-ink/15 bg-card px-6 py-3.5 text-sm font-semibold text-ink hover:border-primary hover:text-primary transition-all">
+            <a href="#work" className="demo-blink inline-flex items-center gap-2 rounded-full border-2 bg-card px-6 py-3.5 text-sm font-semibold text-ink transition-colors">
               <Play className="h-4 w-4 fill-current" /> {t("cta.viewDemo")}
             </a>
           </div>
