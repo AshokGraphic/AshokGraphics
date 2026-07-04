@@ -260,7 +260,7 @@ export const CATEGORIES: Category[] = [
 
 /* Hero video showcase — 4 real picks playing on home page */
 export const HERO_VIDEOS: VideoItem[] = [
-  mk("Krishi Seva Kendra Promo", "CWj1aLEuvK4", IMG.agriShop),
+  mk("Krishi Seva Kendra", "EXPom_K8JgY", IMG.agriShop),
   mk("Fertilizer Brand Ad", "xOej1G9SLgc", IMG.agri),
   mk("Mobile Shop Festival Ad", "AiVDJBVldUU", IMG.mobile),
   mk("Vehicle Showroom Promo", "6x8vQLZiA_o", IMG.auto),
